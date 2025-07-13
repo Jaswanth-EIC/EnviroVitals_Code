@@ -1,7 +1,7 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 #include <driver/i2s.h>
-#include "EnviroVitals_Cough_v2_inferencing.h" // Edge Impulse model
+#include "EnviroVitals_Cough_v2_inferencing.h"
 
 const char* ssid = "Linksys01064";
 const char* password = "dx6mffeehf";
